@@ -38,7 +38,7 @@ This project demonstrates my expertise in creating functional, user-centered dir
 
 ## 👨‍💻 About the Developer
 
-At Metaviz, we have a team of skilled  *Brilliant Directory developer* dedicated to creating innovative solutions on the Brilliant Directory platform. My work on the Local Liberal project showcases my ability to build feature-rich, user-friendly platforms that meet specific community needs.
+At *Metaviz*, we have a team of skilled  **Brilliant Directory developers** dedicated to creating innovative solutions on the Brilliant Directory platform. My work on the Local Liberal project showcases my ability to build feature-rich, user-friendly platforms that meet specific community needs.
 
 If you're looking to create or enhance a directory website on the Brilliant Directory platform, feel free to *[contact me](mailto:sajidjamil.met@gmail.com)*. Let’s collaborate to develop an impactful online presence for your business!
 
